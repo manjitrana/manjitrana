@@ -80,18 +80,18 @@ I love creating products that **solve real-world problems** and empower business
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manjitrana&show_icons=true&theme=tokyonight" alt="manjitrana" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manjitrana&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manjitrana&theme=tokyonight" alt="manjitrana" />
+  <img src="https://github-readme-streak-stats.vercel.app?user=manjitrana&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjitrana&layout=compact&theme=tokyonight" alt="manjitrana" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjitrana&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
