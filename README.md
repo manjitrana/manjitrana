@@ -83,17 +83,28 @@ I love creating products that **solve real-world problems** and empower business
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manjitrana&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=manjitrana&show_icons=true&theme=tokyonight" 
+    alt="manjitrana github stats" 
+    width="480"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app?user=manjitrana&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img 
+    src="https://github-readme-streak-stats.vercel.app/?user=manjitrana&theme=tokyonight" 
+    alt="manjitrana streak stats" 
+    width="480"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjitrana&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjitrana&layout=compact&theme=tokyonight" 
+    alt="manjitrana top languages" 
+    width="480"
+  />
 </p>
-
 ---
 
 ### 📫 Connect with Me  
