@@ -80,31 +80,44 @@ I love creating products that **solve real-world problems** and empower business
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=manjitrana&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=manjitrana&show_icons=true&theme=tokyonight" 
-    alt="manjitrana github stats" 
-    width="480"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=manjitrana&show_icons=true&theme=tokyonight" alt="manjitrana github stats" width="480"/>
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.vercel.app/?user=manjitrana&theme=tokyonight" 
-    alt="manjitrana streak stats" 
-    width="480"
-  />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=manjitrana&theme=tokyonight" alt="manjitrana streak stats" width="480"/>
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjitrana&layout=compact&theme=tokyonight" 
-    alt="manjitrana top languages" 
-    width="480"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjitrana&layout=compact&theme=tokyonight" alt="manjitrana top languages" width="480"/>
 </p>
+
+---
+
+### 🐍 Contribution Snake Animation  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/manjitrana/manjitrana/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+### 📈 Activity Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manjitrana&theme=tokyo-night" alt="GitHub Activity Graph"/>
+</p>
+
 ---
 
 ### 📫 Connect with Me  
@@ -122,4 +135,5 @@ I love creating products that **solve real-world problems** and empower business
 > “I don’t just build apps — I build ecosystems where technology becomes invisible and experience takes center stage.”  
 
 ---
+
 ⭐️ From [Manjit Rana](https://github.com/manjitrana)
